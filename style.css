@@ -153,12 +153,9 @@ a:hover{
     
 }
 .goxjub{
-    width: 24px;
     height: 24px;
-    margin-right: 10px;
-    justify-content: center;
-    align-items: center;
-    display: flex;
+    width: 24px;
+    vertical-align: middle;
     
 }
 .lens-icon{
@@ -171,11 +168,9 @@ a:hover{
     
 }
 .Gdd5U{
-    width: 24px;
     height: 24px;
-    justify-content: center;
-    align-items: center;
-    display: flex;
+    width: 24px;
+    vertical-align: middle;
 }
 
 .buttons{   
